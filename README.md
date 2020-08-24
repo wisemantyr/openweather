@@ -1,4 +1,4 @@
-# python-api-challenge
+# Open Weather API Analysis
 Matplotlib plots produced in a Jupyter Notebook using Python. Data obtained from the OpenWeather API. Cities were chosen from randomly generated latitude and longitude cooordinates using the random library. Data transformed and statistical analysis conducted with Pandas, NumPy, SciPy.
 
 ## WeatherPy Exercise Description
